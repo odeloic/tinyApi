@@ -1,0 +1,16 @@
+{
+  "name": "tinyapi",
+  "version": "1.0.0",
+  "description": "Tiny API template using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Manzi Ode Loic Ishimwe",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
